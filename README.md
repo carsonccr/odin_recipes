@@ -1,0 +1,1 @@
+A simple HTML structure of recipes and different landind pages
